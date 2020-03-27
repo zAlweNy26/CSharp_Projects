@@ -1,4 +1,4 @@
-# Alwe's Java Projects
+# Alwe's C# Projects
 - ### 1. Tris (or TicTacToe)
    - Local Multiplayer - Works - **100 %**
    - VS A.I. - Doesn't Exist - **0 %**
